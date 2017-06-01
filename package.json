@@ -1,5 +1,5 @@
 {
-  "name": "fuse-box-npm-package-seed",
+  "name": "@f/fuse-box-npm-package-seed",
   "version": "1.0.2",
   "description": "Get started with creating npm package using FuseBox module loader and bundler",
   "main": "dist/index.js",
